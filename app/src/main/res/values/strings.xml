@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EsportsScoreApplication</string>
+    <string name="title_activity_sports_score">SportsScoreActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">xRwnH4Cyr2Uon80wRsrk5DjHa</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">PIrRNn5e0wnIx1oLIsLFyGTrFQQhAjnbES4vhdTE7RfuLyqoEP</string>
+</resources>

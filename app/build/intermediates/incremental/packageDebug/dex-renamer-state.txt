@@ -1,0 +1,7 @@
+#Tue Aug 08 13:34:09 PDT 2017
+base.0=C\:\\Users\\parth\\Desktop\\EsportsScoreApplication1\\EsportsScoreApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2f7cba1b82897295ec87c0b54f32c822b7167cd9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\parth\\Desktop\\EsportsScoreApplication1\\EsportsScoreApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9183a6837e90f2d0bf72b4e0164d6896cfcb9dbe\\classes.dex
+base.1=C\:\\Users\\parth\\Desktop\\EsportsScoreApplication1\\EsportsScoreApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9183a6837e90f2d0bf72b4e0164d6896cfcb9dbe
+file.0=C\:\\Users\\parth\\Desktop\\EsportsScoreApplication1\\EsportsScoreApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2f7cba1b82897295ec87c0b54f32c822b7167cd9\\classes.dex
