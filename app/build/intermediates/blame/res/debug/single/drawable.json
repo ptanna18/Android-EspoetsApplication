@@ -12,24 +12,24 @@
         "source": "C:\\Users\\parth\\Desktop\\EsportsScoreApplication1\\EsportsScoreApplication\\app\\src\\main\\res\\drawable\\csgo.png"
     },
     {
-        "merged": "C:\\Users\\parth\\Desktop\\EsportsScoreApplication1\\EsportsScoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__video_replay_btn.xml",
-        "source": "C:\\Users\\parth\\.android\\build-cache\\193272b6cdac33b518a100127342f492f8ba1a91\\output\\res\\drawable\\tw__video_replay_btn.xml"
-    },
-    {
         "merged": "C:\\Users\\parth\\Desktop\\EsportsScoreApplication1\\EsportsScoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dota2.jpg",
         "source": "C:\\Users\\parth\\Desktop\\EsportsScoreApplication1\\EsportsScoreApplication\\app\\src\\main\\res\\drawable\\dota2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\parth\\Desktop\\EsportsScoreApplication1\\EsportsScoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__video_replay_btn.xml",
+        "source": "C:\\Users\\parth\\.android\\build-cache\\193272b6cdac33b518a100127342f492f8ba1a91\\output\\res\\drawable\\tw__video_replay_btn.xml"
     },
     {
         "merged": "C:\\Users\\parth\\Desktop\\EsportsScoreApplication1\\EsportsScoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
         "source": "C:\\Users\\parth\\.android\\build-cache\\874427684bb95d2246dd14bed7508f74638613f1\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "C:\\Users\\parth\\Desktop\\EsportsScoreApplication1\\EsportsScoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__video_pause_btn.xml",
-        "source": "C:\\Users\\parth\\.android\\build-cache\\193272b6cdac33b518a100127342f492f8ba1a91\\output\\res\\drawable\\tw__video_pause_btn.xml"
-    },
-    {
         "merged": "C:\\Users\\parth\\Desktop\\EsportsScoreApplication1\\EsportsScoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
         "source": "C:\\Users\\parth\\.android\\build-cache\\874427684bb95d2246dd14bed7508f74638613f1\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\parth\\Desktop\\EsportsScoreApplication1\\EsportsScoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__video_pause_btn.xml",
+        "source": "C:\\Users\\parth\\.android\\build-cache\\193272b6cdac33b518a100127342f492f8ba1a91\\output\\res\\drawable\\tw__video_pause_btn.xml"
     },
     {
         "merged": "C:\\Users\\parth\\Desktop\\EsportsScoreApplication1\\EsportsScoreApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",

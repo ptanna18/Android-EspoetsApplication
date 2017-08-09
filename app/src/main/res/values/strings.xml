@@ -6,6 +6,6 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
-    <string name="com.twitter.sdk.android.CONSUMER_KEY">xRwnH4Cyr2Uon80wRsrk5DjHa</string>
-    <string name="com.twitter.sdk.android.CONSUMER_SECRET">PIrRNn5e0wnIx1oLIsLFyGTrFQQhAjnbES4vhdTE7RfuLyqoEP</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">W4aTidLCancJ4yKQcjoQOrMuG</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">bfstVokk07CpAqqxVrG0ko0n2hNP7wWh6X4DQyBetvUxIPtXI7</string>
 </resources>
